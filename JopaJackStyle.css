@@ -1,0 +1,115 @@
+body {
+    background-color: orange;
+    /* Путь к фоновому рисунку */
+    background-position: right bottom;
+    /* Положение фона */
+    background-repeat: no-repeat;
+    /* Отменяем повторение фона */
+}
+
+p {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.JJG8 {
+    top: 85%;
+    left: 61.5%;
+    position: absolute
+}
+
+.JJG7{
+    top: 85%;
+    left: 54%;
+    position: absolute
+}
+
+.JJG6 {
+    top: 85%;
+    left: 47%;
+    position: absolute
+}
+
+.JJG5 {
+    top: 85%;
+    left: 40%;
+    position: absolute
+}
+.JJG4 {
+    top: 85%;
+    left: 29%;
+    position: absolute
+}
+
+.JJG3 {
+    top: 85%;
+    left: 23%;
+    position: absolute
+}
+
+.JJG2 {
+    top: 85%;
+    left: 17%;
+    position: absolute
+}
+
+.JJG1 {
+    top: 85%;
+    left: 10%;
+    position: absolute
+}
+
+
+.JJW {
+    top: -5%;
+    left: 33%;
+    position: absolute
+}
+
+.jjbt {
+    top: 90%;
+    left: 73%;
+    position: absolute
+}
+
+
+.fnfjj {
+    top: 80%;
+    left: 73%;
+    position: absolute
+}
+
+.Realjopa {
+
+
+    top: 160%;
+    left: 30%;
+    position: absolute
+}
+
+.jopajackoption2 {
+
+
+    top: 100%;
+    position: absolute
+}
+
+.jopajackoption {
+
+
+    top: 15%;
+    position: absolute
+}
+
+
+
+.jopajack {
+
+    border-radius: 100px;
+    /* Радиус скругления */
+    box-shadow: 0 0 10px #666;
+    /* Параметры тени */
+    top: 5%;
+    left: 15%;
+    position: absolute
+}
